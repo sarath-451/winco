@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-document.body.innerHTML = "";
+console.log('Warning exited from console.');
 });
